@@ -1,16 +1,25 @@
-### Hi there 👋
+### Welcome to My Code Playground! 🚀
 
-<!--
-**alan-lai1738/alan-lai1738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ALAN LAI
+📧 Email: alan.lai1738@gmail.com
+🌐 LinkedIn: [alan-t-lai](https://www.linkedin.com/in/alan-t-lai/) 
 
-Here are some ideas to get you started:
+#### 🎓 EDUCATION
+- 🎓 Master's of Computer Science, University of Washington (Expected Grad. Dec. 2024)
+- 🎓 Bachelor's of Computer Science, University of Washington (Grad. Dec. 2022)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💼 EXPERIENCE
+- <img src="https://github.com/alan-lai1738/alan-lai1738/assets/70036749/7d944933-8c1c-4bd9-b0f7-2c622d677e4a" alt="Image Description" width="20" height="20">  Software Engineer Intern at Meta (Jun. 2022 – Sep. 2022) 
+- 📚 CSS Teaching Assistant/Peer Facilitator/Professor Assistant/Tutor at University of Washington (Dec. 2020 – Present)
+- 🔬 Stepik CSS Research Assistant at Tech4Good (Jun. 2021 – May 2022)
+- 🚀 Chief Technology Officer at Associated for Computing Machinery Club (Jun. 2020 – Mar. 2022)
+
+#### 🚀 PROJECTS
+- 💰 Cryptocurrency Account Authenticator (UW Blockchain Hackathon: 3rd Place Winner)
+- 🌦️ City Weather Retriever
+
+#### 💻 TECHNICAL SKILLS
+- 💬 Languages: Java, C++, Python, HTML, JS, Swift, SQL, PHP, C, CSS, Hack
+- 🛠️ Technologies: React, Node.js, JUnit, MongoDB, Linux, Flask, Git, Docker, Azure, AWS Developer Associate Certification
+- 🧠 Concepts: Full-Stack Development, Back-end Development, Agile Methodologies, Machine Learning, Web Frameworks, Web Architecture, System Design, Distributed Systems, REST API, Unit Testing, Version Control, Scrum, CI/CD
+
