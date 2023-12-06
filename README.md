@@ -5,7 +5,7 @@
 🌐 LinkedIn: [alan-t-lai](https://www.linkedin.com/in/alan-t-lai/) 
 
 #### 🎓 EDUCATION
-- 🎓 Master's of Computer Science, University of Washington (Expected Grad. Dec. 2024)
+- 🎓 Master's of Computer Science, University of Washington (Expected Grad. Dec. 2024 or Mar. 2025)
 - 🎓 Bachelor's of Computer Science, University of Washington (Grad. Dec. 2022)
 
 #### 💼 EXPERIENCE
