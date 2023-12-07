@@ -1,4 +1,4 @@
-### Welcome to My Code Playground! 🚀
+### Welcome to My Code Playground! Please scroll to starred for top 4 portfolio items 🚀
 
 ### ALAN LAI
 📧 Email: alan.lai1738@gmail.com
