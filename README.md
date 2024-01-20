@@ -5,11 +5,11 @@
 🌐 LinkedIn: [alan-t-lai](https://www.linkedin.com/in/alan-t-lai/) 
 
 #### 🎓 EDUCATION
-- 🎓 Master's of Computer Science, University of Washington (Expected Grad. Dec. 2024 or Mar. 2025)
-- 🎓 Bachelor's of Computer Science, University of Washington (Grad. Dec. 2022)
+- 🎓 Masters in Computer Science, University of Washington (Expected Grad. Dec. 2024 or Mar. 2025)
+- 🎓 Bachelors in Computer Science, University of Washington (Grad. Dec. 2022)
 
 #### 💼 EXPERIENCE
-- 🚀 Officer at Associated for Computing Machinery Club (Jun. 2020 – Mar. 2022, Sep 2023 - Present)
+- 🚀 Executive Officer at Association of Computing Machinery Club (Jun. 2020 – Mar. 2022, Sep 2023 - Present)
 - 📚 CSS Teaching Assistant/Peer Facilitator/Professor Assistant/Tutor at University of Washington (Dec. 2020 – Dec. 2023)
 - <img src="https://github.com/alan-lai1738/alan-lai1738/assets/70036749/7d944933-8c1c-4bd9-b0f7-2c622d677e4a" alt="Image Description" width="20" height="20">  Software Engineer Intern at Meta (Jun. 2022 – Sep. 2022) 
 - 🔬 Stepik CSS Research Assistant at Tech4Good (Jun. 2021 – May 2022)
