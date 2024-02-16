@@ -18,6 +18,7 @@
 
 #### 🚀 PROJECTS
 - 💰 Cryptocurrency Account Authenticator (UW Blockchain Hackathon: 3rd Place Winner)
+- 💰 NBA Game Winner Predictor Using Machine Learning 
 - 🌦️ City Weather Retriever
 
 #### 💻 TECHNICAL SKILLS
