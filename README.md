@@ -9,7 +9,7 @@
 - 🎓 Bachelors in Computer Science, University of Washington (Grad. Dec. 2022)
 
 #### 💼 EXPERIENCE
-- 🎓 Graduate Research Asssistant @ Luna mHealth
+- 🎓 Graduate Research Asssistant @ Luna mHealth (Present)
 - <img src="https://github.com/alan-lai1738/alan-lai1738/assets/70036749/7d944933-8c1c-4bd9-b0f7-2c622d677e4a" alt="Image Description" width="20" height="20"> Incoming SWE Intern @ Meta (Summer 2024)
 - 🚀 Executive Officer at Association of Computing Machinery Club (Jun. 2020 – Mar. 2022, Sep 2023 - Present)
 - 📚 CSS Teaching Assistant/Peer Facilitator/Professor Assistant/Tutor at University of Washington (Dec. 2020 – Dec. 2023)
